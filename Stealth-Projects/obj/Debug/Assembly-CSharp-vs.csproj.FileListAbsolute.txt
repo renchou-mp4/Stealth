@@ -1,0 +1,14 @@
+E:\study\practice\Unity\Projects\Temp\bin\Debug\Assembly-CSharp.dll
+E:\study\practice\Unity\Projects\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\study\practice\Unity\Projects\Temp\bin\Debug\UnityEditor.dll
+E:\study\practice\Unity\Projects\Temp\bin\Debug\UnityEngine.dll
+E:\study\practice\Unity\Projects\Temp\bin\Debug\UnityEngine.UI.dll
+E:\study\practice\Unity\Projects\Temp\bin\Debug\Mono.Cecil.dll
+E:\study\practice\Unity\Projects\Temp\bin\Debug\nunit.framework.dll
+E:\study\practice\Unity\Projects\Temp\bin\Debug\Unity.DataContract.dll
+E:\study\practice\Unity\Projects\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\study\practice\Unity\Projects\obj\Debug\Assembly-CSharp-vs.csproj.AssemblyReference.cache
+E:\study\practice\Unity\Projects\obj\Debug\Assembly-CSharp-vs.csproj.CoreCompileInputs.cache
+E:\study\practice\Unity\Projects\obj\Debug\Assembly-CSharp-vs.csproj.CopyComplete
+E:\study\practice\Unity\Projects\obj\Debug\Assembly-CSharp.dll
+E:\study\practice\Unity\Projects\obj\Debug\Assembly-CSharp.pdb
